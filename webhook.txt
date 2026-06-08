@@ -1,0 +1,1 @@
+https://api.telegram.org/bot8907295403:AAEZw4md_FvYVtNNneue87a4sREz_wVj980/setWebhook?url=https://professional-devt-bot.vercel.app/api/webhook
