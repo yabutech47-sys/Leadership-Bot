@@ -12,6 +12,7 @@ COURSES = [
     {"name": "Primary and Middle School Leadership Training (Module 2)", "url": "https://app.mindsmith.ai/course/cmq2xvppe00dg04lb4716kb81/learn"},
     {"name": "Pre-Primary School Leadership Training (Module 1)", "url": "https://app.mindsmith.ai/course/cmpwkef3f02dw04la3bv6vrwn/learn"},
     {"name": "Pre-Primary School Leadership Training (Module 2)", "url": "https://app.mindsmith.ai/course/cmq2yco2m008b04k3ojkz98t0/learn"},
+    {"name": "Aspiring Female School Leaders Training Module", "url": "https://app.mindsmith.ai/course/cmq6g1oz404xz04leekpjw4z0/learn"},
 ]
 
 app = FastAPI()
